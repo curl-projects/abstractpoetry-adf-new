@@ -1,0 +1,9 @@
+{
+	"name": "AbstractPoetryDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bcbb7bba-d41a-4c71-8e42-c153d2514aa2",
+		"tenantId": "be5e2165-2b81-4c8a-ba0e-e67642b77bb9"
+	}
+}
